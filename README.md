@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I’m Sena
 
-<!--
-**cetinkayasena/cetinkayasena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Management Information Systems graduate passionate about automating processes, analyzing data, and building for the web.  
+My **primary goal is to grow in the field of Robotic Process Automation (RPA)**, while continuing to explore **data analysis** and **web technologies**.
 
-Here are some ideas to get you started:
+I enjoy learning through real-world projects, and I’ve developed analytical models using Python and worked on projects that combine critical thinking with technical implementation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills & Tools
+
+**Languages:**  
+Python · SQL · HTML/CSS 
+
+**Data Analysis:**  
+Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn · SHAP · SMOTE
+
+**Web Development:**  
+Flask · HTML/CSS · Basic JavaScript
+
+**Version Control:**  
+Git · GitHub · GitLab
+
+**Other Tools:**  
+Jupyter Notebook · Visual Studio Code
+
+---
+
+## 🌱 Currently Focusing On
+
+- Deepening my knowledge of **RPA** tools and automation  
+- Building automation workflows and real-world RPA projects  
+- Enhancing my **data analysis** with visualization and ML modeling  
+- Strengthening frontend/backend fundamentals for full-stack potential
+
+---
+
+## 🤝 Let’s Connect
+
+📍 Istanbul, Turkey  
+📧 seanaacetinkaya@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/sena-cetinkaya) · [GitHub](https://github.com/cetinkayasena)
